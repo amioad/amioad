@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ahmed Samir 👋
 
-<!--
-**amioad/amioad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer & Technical Product Builder with 14+ years of experience designing and building scalable software solutions.
 
-Here are some ideas to get you started:
+## 🚀 Currently Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏪 StoreHouse — Cloud POS & Invoice Management SaaS
+- 🛒 JIRANNA — Social commerce platform connecting customers, suppliers, and neighborhood hubs
+- 📱 Sahel — Government digital services mobile application
+
+## 💻 Tech Stack
+
+- C#
+- .NET / ASP.NET Core
+- Flutter & Dart
+- Entity Framework Core
+- SQL Server
+- REST APIs
+- Clean Architecture
+- Docker
+
+## 🎯 Interests
+
+- SaaS Products
+- Software Architecture
+- System Design
+- Technical Product Management
+
+## 📫 Connect with Me
+
+- LinkedIn: [Ahmed Samir](https://www.linkedin.com/in/amioad/)
